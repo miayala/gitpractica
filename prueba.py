@@ -1,3 +1,8 @@
 print ("Hola mundo!")
-sum = 3
-print (sum)
+suma = 3
+print (suma)
+
+print ("Ahora viene un numero")
+num = 283
+print (num)
+
